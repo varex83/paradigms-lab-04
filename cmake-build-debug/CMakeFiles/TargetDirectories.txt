@@ -1,0 +1,3 @@
+/Users/bogdanogorodniy/CLionProjects/paradigms_4/cmake-build-debug/CMakeFiles/paradigms_4.dir
+/Users/bogdanogorodniy/CLionProjects/paradigms_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bogdanogorodniy/CLionProjects/paradigms_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
